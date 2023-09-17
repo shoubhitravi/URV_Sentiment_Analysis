@@ -1,7 +1,7 @@
 # URV_Sentiment_Analysis
 URV Summer 2023 - Reddit Sentiment Analysis Project
 
-This is a Sentiment Analysis Project conducted on Reddit activity in order to gain insights on how 
+This is a Sentiment Analysis Project investigating Reddit activity in order to gain insights on how 
 attitudes toward affirmative action differ based on ethnic group. 
 
 - It utilized the Python Reddit API Wrapper (PRAW), Pandas, Numpy, Matplotlib, NLTK, and wordcloud
